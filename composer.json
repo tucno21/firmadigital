@@ -12,5 +12,8 @@
             "email": "carlitostucno@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">= 7.4",
+        "ext-openssl": "*"
+    }
 }
