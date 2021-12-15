@@ -1,0 +1,16 @@
+{
+    "name": "catuva/firmadigital",
+    "description": "Documento para Firmar xml para factura electronica Peru",
+    "autoload": {
+        "psr-4": {
+            "Catuva\\Firmadigital\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tucno21",
+            "email": "carlitostucno@gmail.com"
+        }
+    ],
+    "require": {}
+}
