@@ -14,3 +14,5 @@ $objFirma->signature_xml($flg_firma, $ruta_archivo_xml, $ruta_firma, $pass_firma
 ```
 
 para firmar archivos xml UBL2.1 facturacion electronica Perú
+
+#CREDITOS: https://github.com/robrichards/xmlseclibs
